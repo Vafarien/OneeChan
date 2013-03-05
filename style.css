@@ -3399,7 +3399,7 @@ a[href='.././']:hover
 #navtopright {
 	display: block !important;
 	position: fixed !important;
-	width: " + ($SS.conf["Sidebar Position"] !== 2 ? "109" : "113") + "px !important;
+	width: " + ($SS.conf["Sidebar Position"] !== 2 ? "89" : "113") + "px !important;
 	top: " + (1 + (($SS.conf["Icon Position"] === 2  ? ($SS.conf["Show Logo"] ? 106 : 19): 0))) + "px !important;
 	" + $SS.conf["Sidebar Position String"] + ": " + ((($SS.conf["Sidebar Position"] !== 3) && ($SS.conf["SS-like Sidebar"]) ? 130 : 133) + (($SS.conf["Icon Position"] === 2 ? 39 : 0))) + "px !important;
 	" + $SS.conf["Sidebar Position oString"] + ": auto !important;
