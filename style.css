@@ -1094,7 +1094,7 @@ div.reply .report_button, div.reply .menu_button
 }
 .thread:first-of-type>.opContainer>.op>.postInfo>.menu_button
 {
-	right: 240px !important;
+	right: 980px !important;
 	top: 2px !important;
 }
 .thread:first-of-type>.hidden_thread>.menu_button
